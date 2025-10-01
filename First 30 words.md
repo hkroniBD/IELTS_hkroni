@@ -158,23 +158,14 @@ Sentence: His verbose explanation confused the listeners instead of clarifying t
 
 📝 Gap-Filling Exercises (Words Hidden)
 
-
 ---
 
 Part A
 
 1. The excitement in the stadium did not __________ until long after the match had ended.
-
-
-2. A sudden __________ of car horns outside distracted the speaker.
-
-
+2. A sudden __________ of car horns outside distracted the speaker
 3. She tried to __________ her disappointment by pretending to smile.
-
-
 4. Even in crisis, the leader handled the situation with calm __________.
-
-
 5. The __________ professor spoke for hours, leaving little time for questions.
 
 
@@ -182,17 +173,9 @@ Part A
 Solutions ✅
 
 1. Abate
-
-
 2. Cacophony
-
-
 3. Dissemble
-
-
 4. Equanimity
-
-
 5. Garrulous
 
 
@@ -203,17 +186,9 @@ Solutions ✅
 Part B
 
 6. His __________ decision to invest without research led to big losses.
-
-
 7. The manager’s __________ response suggested he was annoyed.
-
-
 8. The committee remained __________ despite repeated appeals.
-
-
 9. His __________ focus on grammar irritated his classmates.
-
-
 10. She continued to __________ between joining medicine or engineering.
 
 
@@ -230,18 +205,10 @@ Solutions ✅
 
 Part C
 
-11. The student accepted the challenge with __________.
-
-
+11. The student accepted the challenge with __________
 12. His polite words seemed to __________ his rude intentions.
-
-
 13. The weather in the hills is highly __________ and changes suddenly.
-
-
 14. His __________ insistence left no room for debate.
-
-
 15. The scorching heat served to __________ the workers quickly.
 
 
@@ -259,17 +226,9 @@ Solutions ✅
 Part D
 
 16. He cast a __________ glance at the forbidden book.
-
-
 17. The politician launched into a fiery __________ against corruption.
-
-
 18. The meal was __________ and left everyone unsatisfied.
-
-
 19. The artist decided to __________ old and modern styles in his painting.
-
-
 20. The researcher earned __________ for her innovative solution.
 
 
@@ -287,20 +246,10 @@ Solutions ✅
 Part E
 
 21. Feeling __________, she decided to take the day off.
-
-
 22. His deep __________ kept him away from social gatherings.
-
-
 23. Police discovered a __________ plan to attack the system.
-
-
 24. The __________ secretary agreed with every word her boss said.
-
-
 25. She was regarded as a __________ of virtue and honesty.
-
-
 
 Solutions ✅
 21. Lethargic
@@ -313,19 +262,10 @@ Solutions ✅
 ---
 
 Part F
-
 26. His __________ dream of building a utopia was unrealistic.
-
-
 27. She remained __________ even after several failures.
-
-
 28. The __________ scientist refused to give up on the complex problem.
-
-
 29. In today’s world, internet connectivity is almost __________.
-
-
 30. His speech was so __________ that many lost patience before he finished.
 
 
